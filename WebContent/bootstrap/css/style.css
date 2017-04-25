@@ -1,0 +1,23 @@
+.no-margin
+{
+	margin:0px;
+}
+.no-padding
+{
+	padding:0px;
+}
+.site-footer
+{
+	background-color:#222;
+	color:#fff;
+	margin-top:10px;
+	padding-top:10px;
+
+}
+
+html,body 
+{
+height:100%;
+}
+
+
